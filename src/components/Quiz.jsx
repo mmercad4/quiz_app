@@ -20,9 +20,11 @@ export default function Quiz() {
   ));
 
   return (
-    <div id="question">
-      <h2>{QUESTIONS[activeQuestionIndex].text}</h2>
-      <ul id="answers">{answers}</ul>
+    <div id="quiz">
+      <div id="question">
+        <h2>{QUESTIONS[activeQuestionIndex].text}</h2>
+        <ul id="answers">{answers}</ul>
+      </div>
     </div>
   );
 }
