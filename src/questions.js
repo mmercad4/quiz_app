@@ -78,10 +78,10 @@ export default [
     id: "q9",
     text: "What is Mikey's favorite thing to do while gaming?",
     answers: [
-      "Talk shit, including his teammates/friends",
+      "Back everyone out of the lobby before the game ends",
       "Win games",
       "Top frag as Phoenix but flash all his teammates",
-      "Beat Hernan and Marco and then talk shit",
+      "Talk shit, including his teammates/friends",
     ],
   },
 ];
